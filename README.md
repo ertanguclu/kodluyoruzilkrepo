@@ -4,7 +4,8 @@ Kodluyoruz .net core eğitimi kapsamında açtığım ilk repo
 
 Bu repo Kodluyoruz .Net Core Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![alt text](<kran görüntüsü 2024-05-09 132432.png>)
+![proje resmi](https://github.com/ertanguclu/kodluyoruzilkrepo/assets/96473766/ff11791f-bed9-4218-8088-5727176c0d77)
+
 
 ## Installation
 
